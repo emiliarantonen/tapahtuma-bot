@@ -1,0 +1,1 @@
+import './bot.js';  // Import the bot to start it
