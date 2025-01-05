@@ -12,15 +12,18 @@ User can get token from a @BotFather in Telegram.
 Use the /newbot command to create a new bot. 
 @BotFather will ask you for a name and username, 
 then generate an authentication token for your new bot.
+Set the name to /titetapahtumat.
+
+Send the name as command /titetapahtumat, and the bot retruns the upcoming events.
 
 ## Set up environment
 Create an .env file and set the token:
 BOT_TOKEN="YOUR TOKEN"
 
 install dependecies:
-**npm install **
+**npm install**
 
-run the server:
+run the server to use the bot:
 **node index.js**
 
 
